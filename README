@@ -1,6 +1,6 @@
 Requirements
 ------------
 
-* A recent version of [http://www.python.org/](python) (2.6+).
-* The [http://code.google.com/p/argparse/](argparse) module.
-* The [http://www.cherrypy.org/](cherrypy) module (3.0+).
+* A recent version of [python](http://www.python.org/) (2.6+).
+* The [argparse](http://code.google.com/p/argparse/) module.
+* The [cherrypy](http://www.cherrypy.org/) module (3.0+).
